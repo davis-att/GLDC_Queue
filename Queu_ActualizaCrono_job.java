@@ -17,7 +17,7 @@ import org.quartz.JobExecutionException;
 
 /**
  *
- * @author dg3861
+ * @author dg3861&rr789j
  */
 public class Queu_ActualizaCrono_job implements Job {
     
